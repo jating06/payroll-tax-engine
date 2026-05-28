@@ -1,0 +1,5 @@
+[
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW",      "standard_deduction": 50000 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "OLD",      "standard_deduction": 50000 },
+  { "country_code": "US",    "tax_year": "2024",    "regime_name": "STANDARD", "standard_deduction": 14600 }
+]

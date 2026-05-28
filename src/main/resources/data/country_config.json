@@ -1,0 +1,4 @@
+[
+  { "country_code": "INDIA", "tax_year": "2024-25", "cess": 0.04 },
+  { "country_code": "US",    "tax_year": "2024",    "cess": 0.00 }
+]

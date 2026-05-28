@@ -1,0 +1,7 @@
+[
+  { "id": "INV001", "country_code": "INDIA", "name": "80c",  "label": "80C Investments (PPF, ELSS, LIC etc.)",
+  { "id": "INV002", "country_code": "INDIA", "name": "80d",  "label": "80D Health Insurance Premium" },
+  { "id": "INV003", "country_code": "INDIA", "name": "80e",  "label": "80E Education Loan Interest (no cap)" },
+  { "id": "INV004", "country_code": "US",    "name": "401k", "label": "401(k) Annual Contribution" },
+  { "id": "INV005", "country_code": "US",    "name": "hsa",  "label": "HSA Annual Contribution" }
+]

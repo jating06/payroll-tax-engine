@@ -1,0 +1,7 @@
+[
+  { "id": "DED001", "country_code": "INDIA", "name": "pf",               "label": "Provident Fund" },
+  { "id": "DED002", "country_code": "INDIA", "name": "esi",              "label": "Employee State Insurance" },
+  { "id": "DED003", "country_code": "INDIA", "name": "professional_tax", "label": "Professional Tax" },
+  { "id": "DED004", "country_code": "US",    "name": "social_security",  "label": "Social Security (FICA)" },
+  { "id": "DED005", "country_code": "US",    "name": "medicare",         "label": "Medicare" }
+]

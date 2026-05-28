@@ -1,0 +1,21 @@
+[
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 1, "from_amount": 0,       "to_amount": 300000,    "rate": 0.00 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 2, "from_amount": 300001,  "to_amount": 700000,    "rate": 0.05 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 3, "from_amount": 700001,  "to_amount": 1000000,   "rate": 0.10 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 4, "from_amount": 1000001, "to_amount": 1200000,   "rate": 0.15 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 5, "from_amount": 1200001, "to_amount": 1500000,   "rate": 0.20 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "NEW", "slab_order": 6, "from_amount": 1500001, "to_amount": 999999999, "rate": 0.30 },
+
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "OLD", "slab_order": 1, "from_amount": 0,       "to_amount": 250000,    "rate": 0.00 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "OLD", "slab_order": 2, "from_amount": 250001,  "to_amount": 500000,    "rate": 0.05 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "OLD", "slab_order": 3, "from_amount": 500001,  "to_amount": 1000000,   "rate": 0.20 },
+  { "country_code": "INDIA", "tax_year": "2024-25", "regime_name": "OLD", "slab_order": 4, "from_amount": 1000001, "to_amount": 999999999, "rate": 0.30 },
+
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 1, "from_amount": 0,      "to_amount": 11600,    "rate": 0.10 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 2, "from_amount": 11601,  "to_amount": 47150,    "rate": 0.12 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 3, "from_amount": 47151,  "to_amount": 100525,   "rate": 0.22 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 4, "from_amount": 100526, "to_amount": 191950,   "rate": 0.24 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 5, "from_amount": 191951, "to_amount": 243725,   "rate": 0.32 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 6, "from_amount": 243726, "to_amount": 609350,   "rate": 0.35 },
+  { "country_code": "US", "tax_year": "2024", "regime_name": "STANDARD", "slab_order": 7, "from_amount": 609351, "to_amount": 999999999,"rate": 0.37 }
+]

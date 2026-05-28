@@ -1,0 +1,7 @@
+[
+  { "employer_id": "EMP001", "deduction_id": "DED001" },
+  { "employer_id": "EMP001", "deduction_id": "DED003" },
+  { "employer_id": "EMP002", "deduction_id": "DED001" },
+  { "employer_id": "EMP002", "deduction_id": "DED002" },
+  { "employer_id": "EMP002", "deduction_id": "DED003" }
+]

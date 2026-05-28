@@ -1,0 +1,27 @@
+[
+  {
+    "country_code": "INDIA", "tax_year": "2024-25", "deduction_id": "DED001",
+    "employee_percentage": 12.0, "employer_percentage": 12.0,
+    "dependent_field": "BASIC", "fixed_amount": 0, "cap": 15000, "eligibility_ceiling": 0
+  },
+  {
+    "country_code": "INDIA", "tax_year": "2024-25", "deduction_id": "DED002",
+    "employee_percentage": 0.75, "employer_percentage": 3.25,
+    "dependent_field": "GROSS", "fixed_amount": 0, "cap": 0, "eligibility_ceiling": 21000
+  },
+  {
+    "country_code": "INDIA", "tax_year": "2024-25", "deduction_id": "DED003",
+    "employee_percentage": 0, "employer_percentage": 0,
+    "dependent_field": "FIXED", "fixed_amount": 200, "cap": 0, "eligibility_ceiling": 0
+  },
+  {
+    "country_code": "US", "tax_year": "2024", "deduction_id": "DED004",
+    "employee_percentage": 6.2, "employer_percentage": 6.2,
+    "dependent_field": "GROSS", "fixed_amount": 0, "cap": 168600, "eligibility_ceiling": 0
+  },
+  {
+    "country_code": "US", "tax_year": "2024", "deduction_id": "DED005",
+    "employee_percentage": 1.45, "employer_percentage": 1.45,
+    "dependent_field": "GROSS", "fixed_amount": 0, "cap": 0, "eligibility_ceiling": 0
+  }
+]

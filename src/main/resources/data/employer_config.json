@@ -1,0 +1,16 @@
+[
+  {
+    "employer_id": "EMP001",
+    "country_code": "INDIA",
+    "basic_percent": 0.50,
+    "hra_percent": 0.40,
+    "special_allowance_is_remainder": true
+  },
+  {
+    "employer_id": "EMP002",
+    "country_code": "INDIA",
+    "basic_percent": 0.50,
+    "hra_percent": 0.40,
+    "special_allowance_is_remainder": true
+  }
+]

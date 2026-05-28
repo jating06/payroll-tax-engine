@@ -1,0 +1,7 @@
+[
+  { "country_code": "INDIA", "investment_id": "INV001", "cap": 150000 },
+  { "country_code": "INDIA", "investment_id": "INV002", "cap": 25000  },
+  { "country_code": "INDIA", "investment_id": "INV003", "cap": 999999999 },
+  { "country_code": "US",    "investment_id": "INV004", "cap": 23000  },
+  { "country_code": "US",    "investment_id": "INV005", "cap": 4150   }
+]
